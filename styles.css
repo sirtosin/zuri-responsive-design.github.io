@@ -367,9 +367,20 @@ div.footer h6 {
         background: #fff;
         box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
         padding: 15px 40px;
-        width: 550px;
+        width: 500px;
         height: 250px;
         position: relative;
+    }
+
+    div.hero-background-pos {
+        position: absolute;
+        right: 0px;
+        left: 70%;
+        background: #fff;
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
     }
 
     div.snapshot-box-content {
@@ -505,8 +516,8 @@ div.footer h6 {
     }
 
     div.hero-content-heading {
-        margin-top: -3em;
         text-align: center;
+        margin-top: 20px;
     }
 
     div.background {
@@ -516,6 +527,16 @@ div.footer h6 {
         width: 550px;
         height: 380px;
         position: relative;
+    }
+    div.hero-background-pos {
+        position: absolute;
+        right: 0px;
+        left: 60%;
+        background: #fff;
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        box-shadow: 2px 2px 15px 0 rgb(135 135 135 / 40%);
     }
 
     div.snapshot-box-content {
