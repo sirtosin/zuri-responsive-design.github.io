@@ -1,1 +1,2 @@
  make the web page responsive on different screen sizes using media query. Using media query.  Also, use JavaScript to make the navigation bar functional. Do Not Use Any Framework, please. Just HTML, CSS, and JavaScript.
+ [live preview](https://naughty-meitner-b0f347.netlify.app/)
